@@ -18,3 +18,4 @@ if (results === 'heads' && choice === 'heads') {
 } else if (results === 'tails' && choice === 'tails') {
   alert('The flip was tails and you chose tails... you win!');
 };
+
